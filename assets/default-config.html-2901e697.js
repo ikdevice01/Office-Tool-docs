@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a991dc9c","path":"/zh-tw/deploy/create-iso/default-config.html","title":"包含默认配置的 ISO","lang":"zh-TW","frontmatter":{},"headers":[],"filePathRelative":"zh-tw/deploy/create-iso/default-config.md"}');export{e as data};

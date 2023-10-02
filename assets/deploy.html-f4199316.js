@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d141b11e","path":"/zh-tw/commands/deploy.html","title":"部署命令","lang":"zh-TW","frontmatter":{},"headers":[{"level":2,"title":"部署 Office 示例","slug":"部署-office-示例","link":"#部署-office-示例","children":[]}],"filePathRelative":"zh-tw/commands/deploy.md"}');export{e as data};

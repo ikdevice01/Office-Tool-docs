@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-607f598d","path":"/deploy/create-iso/config-command.html","title":"使用 loadConfig 的 ISO","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"deploy/create-iso/config-command.md"}');export{e as data};

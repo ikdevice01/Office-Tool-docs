@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-598a300a","path":"/zh-tw/deploy/create-iso/deploy-command.html","title":"完全自定义安装的 ISO","lang":"zh-TW","frontmatter":{},"headers":[],"filePathRelative":"zh-tw/deploy/create-iso/deploy-command.md"}');export{e as data};

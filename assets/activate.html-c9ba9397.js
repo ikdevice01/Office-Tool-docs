@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-d28dc1b6","path":"/zh-tw/commands/activate.html","title":"激活命令","lang":"zh-TW","frontmatter":{},"headers":[],"filePathRelative":"zh-tw/commands/activate.md"}');export{t as data};

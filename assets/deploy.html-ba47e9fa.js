@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1431baf3","path":"/zh-tw/faq/deploy.html","title":"部署问题","lang":"zh-TW","frontmatter":{},"headers":[{"level":2,"title":"Windows 支持终止和 Microsoft 365 应用","slug":"windows-支持终止和-microsoft-365-应用","link":"#windows-支持终止和-microsoft-365-应用","children":[]}],"filePathRelative":"zh-tw/faq/deploy.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-319629af","path":"/zh-tw/deploy/create-iso/iso-command.html","title":"使用 ISO 命令的 ISO","lang":"zh-TW","frontmatter":{},"headers":[],"filePathRelative":"zh-tw/deploy/create-iso/iso-command.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e649437e","path":"/zh-tw/commands/","title":"快捷键命令","lang":"zh-TW","frontmatter":{},"headers":[{"level":3,"title":"部署页面","slug":"部署页面","link":"#部署页面","children":[]},{"level":3,"title":"激活页面","slug":"激活页面","link":"#激活页面","children":[]}],"filePathRelative":"zh-tw/commands/README.md"}');export{e as data};

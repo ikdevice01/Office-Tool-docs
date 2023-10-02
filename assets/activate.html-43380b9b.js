@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-19140786","path":"/zh-cn/commands/activate.html","title":"激活命令","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"zh-cn/commands/activate.md"}');export{t as data};

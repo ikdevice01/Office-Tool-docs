@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-39c025b8","path":"/zh-tw/deploy/create-iso/basic.html","title":"不含任何配置的 ISO","lang":"zh-TW","frontmatter":{},"headers":[],"filePathRelative":"zh-tw/deploy/create-iso/basic.md"}');export{e as data};
